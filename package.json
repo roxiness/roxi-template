@@ -13,5 +13,11 @@
   "license": "ISC",
   "dependencies": {
     "roxi": "^1.0.4"
+  },
+  "devDependencies": {
+    "@snowpack/app-scripts-svelte": "^1.1.4",
+    "@snowpack/plugin-dotenv": "^1.1.1",
+    "@snowpack/plugin-svelte": "^1.0.6",
+    "svelte": "^3.23.1"
   }
 }
