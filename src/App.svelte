@@ -3,4 +3,4 @@
   import { routes } from "../_roxi/.routify/routes";
 </script>
 
-<Router {routes} />asd123asdasd123
+<Router {routes} />
