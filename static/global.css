@@ -128,11 +128,7 @@ section header {
 
 /* Nav */
 nav {
-    align-items: center;
-    display: flex;
     font-weight: bold;
-    justify-content: space-between;
-    margin-bottom: 7rem;
 }
 
 nav ul {

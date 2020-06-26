@@ -2,8 +2,19 @@
   import { layout } from "roxi/routify";
 </script>
 
-<h3>Example app</h3>
-{#each $layout.children as child}
-  <a href={child.path}>{child.title}</a>
-{/each}
+
+<style>
+  a {
+    margin-right: 1ex;
+  }
+</style>
+
+<h3>My Project</h3>
+
+<nav>
+    {#each $layout.children as child}
+        <a href={child.path}>{child.title}</a>
+    {/each}
+</nav>
+
 <slot />
