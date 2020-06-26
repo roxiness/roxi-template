@@ -1,1 +1,1 @@
-INDEX2
+<p>This is your home page (index).</p>

@@ -128,11 +128,7 @@ section header {
 
 /* Nav */
 nav {
-    align-items: center;
-    display: flex;
     font-weight: bold;
-    justify-content: space-between;
-    margin-bottom: 7rem;
 }
 
 nav ul {
@@ -445,4 +441,11 @@ blockquote footer {
     font-size: small;
     line-height: var(--line-height);
     padding: 1.5rem 0;
+}
+
+/* additional */
+
+body {
+    max-width: 90%;
+    margin: 0 auto;
 }
