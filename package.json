@@ -12,7 +12,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "mdsvex": "^0.8.2",
     "roxi": "latest"
+  },
+  "devDependencies": {
+    "mdsvex": "^0.8.2"
   }
 }
