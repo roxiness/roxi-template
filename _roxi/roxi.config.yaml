@@ -13,3 +13,5 @@
 # - vite: no-bundler with fast cold builds and rebuilds. Uses koa middleware.
 bundler: vite
 
+plugins:
+- roxi-plugin-mdsvex
