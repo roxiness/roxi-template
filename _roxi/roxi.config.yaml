@@ -14,4 +14,5 @@
 bundler: vite
 
 plugins:
-- roxi-plugin-mdsvex
+- roxi-plugin-mdsvex:
+    # layout: src/components/layout.svelte
