@@ -14,6 +14,6 @@
   "dependencies": {
     "@roxi/plugin-mdsvex": "^1.0.0",
     "@roxi/plugin-postcss": "^1.0.0",
-    "roxi": "^1.0.8"
+    "roxi": "^1.1.0"
   }
 }
