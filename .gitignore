@@ -3,4 +3,4 @@ node_modules
 **/.routify/**
 dist
 public/build
-_roxi/dump.json
+_roxi/.roxi/logs/**
