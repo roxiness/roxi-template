@@ -17,5 +17,5 @@ plugins:
       ssr: true
   - "@roxi/plugin-postcss"
   - "@roxi/plugin-mdsvex"
-  - debugger
     # layout: src/components/layout.svelte
+  - debugger
