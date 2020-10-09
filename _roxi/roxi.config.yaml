@@ -20,8 +20,7 @@ plugins:
   - spassr:
       port: 5005
       ssr: true
-  # external plugins
-  - "@roxi/plugin-postcss"
-  - "@roxi/plugin-mdsvex"
+  - postcss
+  - mdsvex
     # layout: src/components/layout.svelte
   - debugger

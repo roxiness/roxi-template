@@ -12,8 +12,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@roxi/plugin-mdsvex": "^1.0.0",
-    "@roxi/plugin-postcss": "^1.0.0",
     "roxi": "^1.4.0"
   }
 }
