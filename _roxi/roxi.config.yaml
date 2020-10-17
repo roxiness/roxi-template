@@ -13,6 +13,7 @@ plugins:
       foo: 'bar'
   
   # builtin plugins
+  - svelte
   - routify
   - rollup
   - nollup:
